@@ -5,7 +5,7 @@ Visualizador de dashboards em Realidade aumentada.
 
 
 # AR Webview
-Usar o QR Code para ativar o software: [qr marker](https://bitbucket.org/ricardohprc/ar.js-webview/src/master/images/marker.png)
+Usar o QR Code para ativar o software: [qr marker](https://)
 
 ## Como Rodar
 
