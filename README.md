@@ -1,8 +1,8 @@
 # ar.js-powerbi
 Sistema para geração de QR Code para a visualização de indicadores em Real time usando realidade aumentada.
 
-AR Webview
-Usar o QR Code para ativar o software: qr marker
+# AR Webview
+Usar o QR Code para ativar o software: [qr marker](https://bitbucket.org/ricardohprc/ar.js-webview/src/master/images/marker.png)
 
 ## Como Rodar
 
