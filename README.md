@@ -1,12 +1,6 @@
-# ar.js-powerbi
-Visualizador de dashboards em Realidade aumentada. ##Power BI for Mixed Reality app
-
-![img](https://powerbicdn.azureedge.net/mediahandler/blog/media/PowerBI/blog/cef13dac-54e9-4d6a-9f84-5b972a14d384.gif)
-
-
-
 # AR Webview
-Usar o QR Code para ativar o software: [qr marker](https://)
+
+Usar o QR Code para ativar o software: [qr marker](https://bitbucket.org/ricardohprc/ar.js-webview/src/master/images/marker.png)
 
 ## Como Rodar
 
