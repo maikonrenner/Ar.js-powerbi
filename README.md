@@ -4,7 +4,7 @@
 
 ![img](https://powerbicdn.azureedge.net/mediahandler/blog/media/PowerBI/blog/cef13dac-54e9-4d6a-9f84-5b972a14d384.gif)
 
-Usar o QR Code para ativar o software: [qr marker](https://https://ibb.co/n8sNTgK)
+Usar o QR Code para ativar o software: [qr marker](https://github.com/maikonrenner/ar.js-powerbi/blob/main/images/marker.png)
 
 ## Como Rodar
 
